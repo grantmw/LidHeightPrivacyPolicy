@@ -20,7 +20,7 @@ We understand personal information is important to our user base. That is why we
 
 ## Data Retention
 
-We use geometrical and face data provided by Apple's TrueDepth camera system. Using that data, we make simple calculations and display them on the screen. There is no retention of data: measurements are made live and real-time. 
+We use geometrical and face data provided by Apple's TrueDepth camera system. Using that face data, we make simple calculations and display them on the screen. There is no retention of data: measurements are made live and real-time. 
 
 
 ## Changes To This Privacy Policy
@@ -31,7 +31,7 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 ## Disclosure
 
-There are no disclosures or conflicts of interest.
+There are no disclosures or conflicts of interest regarding face data or otherwise.
 
 
 ## Disclaimer
